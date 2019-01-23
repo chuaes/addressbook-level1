@@ -57,7 +57,7 @@ public class AddressBook {
     private static final String LS = System.lineSeparator() + LINE_PREFIX;
 
     /*
-     * NOTE : ==================================================================
+     * NOTES : ==================================================================
      * These messages shown to the user are defined in one place for convenient
      * editing and proof reading. Such messages are considered part of the UI
      * and may be subjected to review by UI experts or technical writers. Note

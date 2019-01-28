@@ -471,7 +471,7 @@ public class AddressBook {
         // update the person as specified
         final String[] personToUpdate = decodeResult.get();
         addPersonToAddressBook(personToUpdate);
-        return getMessageForSuccessfulAddPerson(personToUpdate);
+        return getMessageForSuccessfulUpdatePerson(personToUpdate);
     }
 
     /**
